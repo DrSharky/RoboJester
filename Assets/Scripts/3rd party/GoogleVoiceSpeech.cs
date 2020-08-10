@@ -41,7 +41,7 @@ public class GoogleVoiceSpeech : MonoBehaviour
 
 	public static Action<string> command;
 	public static Action<AudioClip> playback;
-	public string apiKey = "AIzaSyDbHxpv3AXZvggZsxmT8PdOuq2J7sFv4xo";
+	public string apiKey = "XXXXXXXXXXX";
 
 	//A handle to the attached AudioSource
 	public AudioSource goAudioSource;
